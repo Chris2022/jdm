@@ -6410,6 +6410,15 @@
             "tumblr.com"
         ]
     },
+    
+    {
+        "name": "TunnelBear",
+        "url": "https://www.tunnelbear.com/account/remove",
+        "difficulty": "easy",
+        "domains": [
+            "tunnelbear.com"
+        ]
+    },
 
     {
         "name": "Tunngle",
