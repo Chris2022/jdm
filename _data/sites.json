@@ -6914,6 +6914,15 @@
             "wikipedia.org"
         ]
     },
+    
+    {
+        "name": "Windscribe",
+        "url": "https://windscribe.com/cancel/account",
+        "difficulty": "easy",
+        "domains": [
+            "windscribe.com"
+        ]
+    },
 
     {
         "name": "Wix",
